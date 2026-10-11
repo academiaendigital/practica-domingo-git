@@ -9,4 +9,5 @@
        3. CLASE 3- INTRODUCCIÓN A GIT - MARKDOWN
 
   [MARDOWM](https://markdown.es/)
-  ![foto](/assets/images/foto1.jpg)
+  [![foto](/assets/images/foto1.jpg)](https://markdown.es/)
+ 
