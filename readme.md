@@ -10,4 +10,5 @@
 
   [MARDOWM](https://markdown.es/)
   [![foto](/assets/images/foto1.jpg)](https://markdown.es/)
- 
+
+## PRACTICA 2 APRENDIENDO A TRABAJR CON RAMAS EN GIT
